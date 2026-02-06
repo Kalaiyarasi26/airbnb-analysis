@@ -19,3 +19,6 @@ for potential personalization and optimization use cases.
 - Dimensionality reduction using PCA
 - Clustering using K-Means and DBSCAN
 - Visualization using PCA, t-SNE, and geospatial maps
+#Notebook is too long to be viewed
+Adding the Notebook viewer link below
+https://nbviewer.org/github/Kalaiyarasi26/airbnb-analysis/blob/main/airbnbProjectCode.ipynb
