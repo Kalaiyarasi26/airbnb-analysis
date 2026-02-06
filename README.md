@@ -21,6 +21,7 @@ for potential personalization and optimization use cases.
 - Visualization using PCA, t-SNE, and geospatial maps
 
 
-##Notebook is too long to be viewed
--Adding the Notebook viewer link below
+## Notebook is too long to be viewed
+- Adding the Notebook viewer link below
+- Click the below link to view the analysis
 https://nbviewer.org/github/Kalaiyarasi26/airbnb-analysis/blob/main/airbnbProjectCode.ipynb
